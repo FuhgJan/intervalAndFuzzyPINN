@@ -13,7 +13,7 @@ and ease of inverse problem set-up
 <img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
 </p>
 <p>
-    <em>image_caption</em>
+    <em> align="middle" image_caption</em>
 </p>
 
 <p align="center">
