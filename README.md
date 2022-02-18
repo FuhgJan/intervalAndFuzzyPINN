@@ -10,8 +10,8 @@ major advantages of PINNs are retained, i.e. meshfree nature of the scheme,
 and ease of inverse problem set-up
 
 <p align="center">
-<img  src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
-  <img src="output/images/Process.png" alt="Interval PINN" width="400" height="400" />
+<img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
+  <em>image_caption</em>
 </p>
 
 <p align="center">
