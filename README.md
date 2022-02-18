@@ -1,4 +1,4 @@
-# The mixed deep energy method for resolving concentration features in finite strain hyperelasticity
+# Interval and fuzzy physics-informed neural networks for uncertain fields
 
   - Author: Jan N Fuhg
   - Organization: Cornell University
@@ -10,11 +10,11 @@ major advantages of PINNs are retained, i.e. meshfree nature of the scheme,
 and ease of inverse problem set-up
 
 <p align="center">
-<img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="500" height="300" />
+<img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
 </p>
 
 <p align="center">
-<img align="middle" src="output/images/Process.png" alt="Interval PINN" width="500" height="300" />
+<img align="middle" src="output/images/Process.png" alt="Interval PINN" width="400" height="400" />
 </p>
 
 
