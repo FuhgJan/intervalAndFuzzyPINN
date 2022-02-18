@@ -3,7 +3,9 @@
   - Author: Jan N Fuhg
   - Organization: Cornell University
 
-Here, we propose a physics-informed neural network approach to solve interval and fuzzy partial differential equations[1]. In contrast to finite element approaches, no correlation length specification of the input fields as well as no Monte-Carlo simulations
+Here, we propose a physics-informed neural network approach to solve interval and fuzzy partial differential equations[1].
+We call these solvers fuzzy physics-informed neural network (fPINN) and interval physics-informed neural network (iPINN).
+In contrast to finite element approaches, no correlation length specification of the input fields as well as no Monte-Carlo simulations
 are necessary. In fact, information about the input interval fields is obtained
 directly as a byproduct of the presented solution scheme. Furthermore, all
 major advantages of PINNs are retained, i.e. meshfree nature of the scheme,
@@ -13,11 +15,14 @@ and ease of inverse problem set-up
 <img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
 </p>
 <p align = "center">
-Fig.1 - Fuzzy PINN process where each &alpha;-cut level requires one IPINN solution. 
+Fig.1 - Fuzzy PINN process where each &alpha;-cut level requires one iPINN solution. 
 </p>
 
 <p align="center">
 <img align="middle" src="output/images/Process.png" alt="Interval PINN" width="400" height="400" />
+</p>
+<p align = "center">
+Fig.1 - Schematic overview of iPINN process. 
 </p>
 
 
