@@ -13,7 +13,7 @@ and ease of inverse problem set-up
 <img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
 </p>
 <p align = "center">
-Fig.1 - Fuzzy PINN process where each $\alpha$-cut level requires one IPINN solution. 
+Fig.1 - Fuzzy PINN process where each $\\alpha$-cut level requires one IPINN solution. 
 </p>
 
 <p align="center">
