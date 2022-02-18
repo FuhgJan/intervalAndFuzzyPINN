@@ -12,8 +12,8 @@ and ease of inverse problem set-up
 <p align="center">
 <img align="middle" src="output/images/fuzzyProcess.png" alt="Fuzzy PINN" width="400" height="250" />
 </p>
-<p>
-    <em> align="middle" image_caption</em>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
 </p>
 
 <p align="center">
