@@ -35,7 +35,7 @@ $ git clone https://github.com/FuhgJan/intervalAndFuzzyPINN.git ./intervalAndFuz
 $ cd intervalAndFuzzyPINN
 $ conda env create -f environment.yml
 $ conda activate intervalAndFuzzyPINN
-$ python -m pip install . --user
+$ cd interval_PDE
 
 ```
 The time-dependent PDE example can then be run with
