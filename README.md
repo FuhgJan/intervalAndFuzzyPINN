@@ -61,7 +61,6 @@ $ conda env remove --name intervalAndFuzzyPINN
 The code requires the following packages as imports:
 
  - [NumPy](http://numpy.scipy.org) for array handling
- - [Scipy](https://www.scipy.org/) for numerical solutions
  - [torch](https://pytorch.org/) for the neural network and automatic differentiation libraries
  - [MatPlotLib](https://matplotlib.org/) for graphical output
 
