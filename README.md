@@ -38,10 +38,10 @@ $ conda activate intervalAndFuzzyPINN
 $ python -m pip install . --user
 
 ```
-The provided example can then be run with
+The time-dependent PDE example can then be run with
 
 ```
-$ python3 run_hole_problem.py
+$ python3 interval_PDE.py
 ```
 
 Outputs will be written to mixedDEM/outputs/vtk_files/ and can be opened with paraview.
