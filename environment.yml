@@ -1,0 +1,10 @@
+name: intervalAndFuzzyPINN
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pytorch
+  - matplotlib <3.2
+
+
